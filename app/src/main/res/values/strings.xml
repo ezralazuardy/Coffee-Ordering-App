@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Coffee Ordering App</string>
+    <string name="descriptionhint_text_signup">Hi there!\nBefore start buying, please type your name here\nSo we can call you easily :)</string>
+    <string name="hint_edittext_firstname_signup">First name</string>
+    <string name="hint_edittext_lastname_signup">Last name</string>
+    <string name="hint_btnnext_signup">Next</string>
+    <string name="hint_btnexitapp_signup">Exit App</string>
+    <string name="topbar_text_menu">Menu</string>
+    <string name="orderlist_text_order">Your order:</string>
+    <string name="orderlist_text_null_placeholder">You haven\'t ordered yet. Please order something so we can show your order item list here.</string>
+    <string name="bottombar_text_price">Price:</string>
+    <string name="bottombar_text_price_nullvalue">-</string>
+    <string name="result_text_title">Confirm Order</string>
+    <string name="result_text_orderfor">Order for</string>
+    <string name="result_text_table_separator">:</string>
+    <string name="result_text_title_confirmedorder">Order Confirmed</string>
+    <string name="result_text_body">, you have ordered:</string>
+    <string name="result_text_body_confirmedorder">Your order has been confirmed.\nThank you for purchasing!</string>
+    <string name="result_text_totalitem">Total item:</string>
+    <string name="result_text_totalprice">Total price</string>
+    <string name="result_text_taxinfo_0">*a</string>
+    <string name="result_text_taxinfo_1">% tax fee has been applied.</string>
+
+    <!-- Item name -->
+    <string name="item_name_0">Cappucino</string>
+    <string name="item_name_1">Moccacino</string>
+    <string name="item_name_2">Vanilla latte</string>
+    <string name="item_name_3">Black coffee</string>
+    <string name="item_name_4">Choco cookies</string>
+    <string name="item_name_5">Choco hazelnut</string>
+
+    <!-- Item price (DECIMAL VALUE TYPE) -->
+    <string name="item_price_0">3.80</string>
+    <string name="item_price_1">3.20</string>
+    <string name="item_price_2">2.50</string>
+    <string name="item_price_3">1.80</string>
+    <string name="item_price_4">2.80</string>
+    <string name="item_price_5">3.00</string>
+
+    <!-- Tax amount (INTEGER VALUE TYPE, APPLIED IN PERCENT) -->
+    <string name="tax_amount">10</string>
+
+    <!-- Item type -->
+    <string name="item_type_0">Ice</string>
+    <string name="item_type_0_description">I\'m prefer <b>Ice</b></string>
+    <string name="item_type_1">Hot</string>
+    <string name="item_type_1_description">I like <b>Hot</b> drink</string>
+
+    <!-- Order item value range -->
+    <string name="item_min">1</string>
+    <string name="item_max">100</string>
+
+    <!-- Dialog string -->
+    <string name="dialog_btn_yes">Yes</string>
+    <string name="dialog_btn_no">No</string>
+    <string name="dialog_btn_order">Order</string>
+    <string name="dialog_btn_confirm">Confirm</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_btn_close">Close</string>
+    <string name="dialog_btn_back">Back</string>
+    <string name="dialog_title_exitapp">Exit App</string>
+    <string name="dialog_body_exitapp">Are you sure want to exit this app?</string>
+    <string name="dialog_title_cancelorder">Cancel Order</string>
+    <string name="dialog_body_cancelorder">, are you sure want to cancel your order?</string>
+    <string name="dialog_title_order">Order a</string>
+    <string name="dialog_body_order_0">is ready for you!. Please tell me how many &amp; what kind of drink do you want.</string>
+    <string name="dialog_body_order_1">is</string>
+    <string name="dialog_body_order_2">/ cup.</string>
+    <string name="dialog_body_order_3">How many?</string>
+    <string name="dialog_body_order_4">What type of drink?</string>
+    <string name="dialog_title_order_item_detail">Item Detail</string>
+    <string name="dialog_body_order_item_detail_separator">:</string>
+    <string name="dialog_body_order_item_detail_0">Item name</string>
+    <string name="dialog_body_order_item_detail_1">Item type</string>
+    <string name="dialog_body_order_item_detail_2">Item value</string>
+    <string name="dialog_body_order_item_detail_3">Price per cup</string>
+    <string name="dialog_body_order_item_detail_4">Total item price</string>
+
+    <!-- Toast string -->
+    <string name="toast_error_firstname_null">It looks like you haven\'t entered your first name…</string>
+    <string name="toast_error_lastname_null">Ah!, you forget to enter your last name…</string>
+    <string name="toast_canceled_order">You have canceled this order</string>
+    <string name="toast_canceled_order_item">Ah, it\'s okay!, feel free to choose other item!</string>
+    <string name="toast_null_order">You haven\'t ordered anything…</string>
+
+    <!-- Menu string -->
+    <string name="menu_cancelorder">Cancel order</string>
+</resources>
