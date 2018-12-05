@@ -2,7 +2,7 @@
 
 ## Coffee-Ordering-App
 
-A demo of Coffee Ordering App for [Google Code-in](codein.withgoogle.com) task project.
+A demo of Coffee Ordering App for [Google Code-in](https://codein.withgoogle.com) task project.
 <br><br>
 ### Task project detail
 <b>Task title:</b>
