@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/github/license/ezralazuardy/ChocoView.svg)](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/LICENSE) 
 [![Author](https://img.shields.io/badge/author-ezra%20lazuardy-blue.svg)](https://github.com/ezralazuardy)
-[![Build Status](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App.svg?branch=master)](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App)
+<!-- [![Build Status](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App.svg?branch=master)](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App) -->
 
 ## Coffee-Ordering-App
 
