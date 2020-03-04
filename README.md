@@ -2,7 +2,7 @@
 [![Author](https://img.shields.io/badge/author-ezra%20lazuardy-blue.svg)](https://github.com/ezralazuardy)
 <!-- [![Build Status](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App.svg?branch=master)](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App) -->
 
-## Coffee-Ordering-App
+## CoffeeOrderingApp
 
 A demo of Coffee Ordering App for [Google Code-in](https://codein.withgoogle.com) task project.<br>
 <b>Download & run the</b> [.apk file.](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/app/release/app-release.apk)
