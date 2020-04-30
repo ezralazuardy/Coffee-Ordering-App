@@ -1,6 +1,4 @@
-[![License](https://img.shields.io/github/license/ezralazuardy/ChocoView.svg)](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/LICENSE) 
-[![Author](https://img.shields.io/badge/author-ezra%20lazuardy-blue.svg)](https://github.com/ezralazuardy)
-<!-- [![Build Status](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App.svg?branch=master)](https://travis-ci.org/ezralazuardy/Coffee-Ordering-App) -->
+[![License](https://img.shields.io/github/license/ezralazuardy/ChocoView.svg)](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/LICENSE)
 
 ## CoffeeOrderingApp
 
@@ -22,9 +20,3 @@ Eg. A coffee is set for a fixed price, say $2. So the user will have to enter th
 There are no external dependencies to handle.
 <br><br>
 <b>Task tags</b>: <i>xml, android, java</i>
-<br><br>
-### Preview
-![preview1](https://static.tinylab.tk/coffee-ordering-app/preview1.jpeg)
-![preview2](https://static.tinylab.tk/coffee-ordering-app/preview2.jpeg)
-![preview3](https://static.tinylab.tk/coffee-ordering-app/preview3.jpeg)
-![preview4](https://static.tinylab.tk/coffee-ordering-app/preview4.jpeg)
