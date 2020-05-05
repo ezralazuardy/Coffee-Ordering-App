@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/ezralazuardy/ChocoView.svg)](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/ezralazuardy/coffeeordering)](https://github.com/ezralazuardy/Coffee-Ordering-App/blob/master/LICENSE)
 
 ## CoffeeOrderingApp
 
